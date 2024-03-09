@@ -64,7 +64,7 @@ const Navbar = () => {
           <ul className="font-medium  text-blue-800 flex p-4 md:p-0 rounded-lg flex-row md:space-x-8 mt-0">
             {navLinks.map((link) => {
               return (
-                <li><b>
+                <li key={link.path}><b>
                   <NavLink
                     href={link.path}
                     title={link.title}

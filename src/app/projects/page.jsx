@@ -5,7 +5,6 @@ export default function Projects() {
     <main className="flex min-h-screen flex-col bg-white">
       <Navbar />
       <div className="mx-0 my-0">
-     
       </div>
     </main>
   );

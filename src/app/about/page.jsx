@@ -5,9 +5,9 @@ export default function About() {
   return (
     <main className="flex min-h-screen flex-col bg-white">
       <Navbar />
-      <div className="container mx-auto mt-24 px-12 py-4">
+      <div className="container mx-auto mt-24 px-24 py-4">
         <section className="grid grid-cols-1 lg:grid-cols-12 my-10">
-          <div className="lg:col-span-8 place-self-center place-items-center lg:pr-20 grid lg:place-items-start text-black">
+          <div className="lg:col-span-8 place-self-center place-items-center px-40 pt-20 lg:place-items-start text-black">
             <h1 className="max-w-2xl lg:text-5xl md:text-4xl sm:text-3xl mb-4 font-extrabold">
               About Me
             </h1>
@@ -21,10 +21,10 @@ export default function About() {
               techincal expertise with a deep understanding of user needs.
             </p>
           </div>
-          <div className="lg:col-span-4 flex-col  place-self-center md:start-0 md:flex-col md: flex mt-4 lg:mt-0">
+          <div className="lg:col-span-4 flex-col place-self-center md:start-0 md:flex-col md: flex mt-4 lg:mt-0">
             <Image
               src="/profile.png"
-              className="rounded-full border-solid border-blue-500 border"
+              className=" rounded-full border-solid border-blue-500 border"
               alt="profile image"
               width={300}
               height={300}
