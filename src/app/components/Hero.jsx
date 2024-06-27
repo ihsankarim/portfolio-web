@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="col-span-12 lg:col-span-8 flex flex-col pl-40 pr-20 py-10 justify-center items-center lg:items-start">
         <h1 className="text-black max-w-2xl mb-4 lg:text-6xl text-4xl font-extrabold">
           <strong className="text-transparent text-6xl bg-clip-text bg-gradient-to-r from-gray-500 to-blue-600">
-            Helo, I'm
+            Helo, I&apos;m
           </strong>
         </h1>
         <h1 className="text-black max-w-2xl mb-4 lg:text-6xl text-4xl font-extrabold">
@@ -38,6 +38,7 @@ const Hero = () => {
         className="rounded-full relative"
         width={300}
         height={300}
+        alt="logo"
         />
       </div>
       {/* <div className="col-span-4 flex mt-4 lg:mt-0">

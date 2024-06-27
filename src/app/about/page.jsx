@@ -12,7 +12,7 @@ export default function About() {
               About Me
             </h1>
             <p className="text-justify text-blue-950 font-medium md:">
-              <b>Hi guys!</b> My name is Muhammad Ihsan Kurnia Al-Karim. I'm software
+              <b>Hi guys!</b> My name is Muhammad Ihsan Kurnia Al-Karim. I&apos;m software
               developer main focus on web and mobile development. As an
               undergraduate student of Informatics Engineering, I pursuse not
               only technical expertise, but also a passion for continuous

@@ -7,7 +7,7 @@ function CardView({ title, description, imageSrc, link }) {
         <img
           className="w-full h-56 object-cover object-center"
           src={imageSrc}
-          alt={title}
+          alt="Card"
         />
       )}
       <div className="p-4">
