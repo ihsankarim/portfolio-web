@@ -5,13 +5,13 @@ export default function About() {
   return (
     <main className="flex min-h-screen flex-col bg-white">
       <Navbar />
-      <div className="container mx-auto mt-24 px-24 py-4">
+      <div className="container mx-auto mt-24 px-4 py-4">
         <section className="grid grid-cols-1 lg:grid-cols-12 my-10">
-          <div className="lg:col-span-8 place-self-center place-items-center px-40 pt-20 lg:place-items-start text-black">
+          <div className="lg:col-span-8 place-self-center place-items-center px-4 pt-4 lg:place-items-start text-black">
             <h1 className="max-w-2xl lg:text-5xl md:text-4xl sm:text-3xl mb-4 font-extrabold">
               About Me
             </h1>
-            <p className="text-justify text-blue-950 font-medium md:">
+            <p className="text-justify text-blue-950 font-medium">
               <b>Hi guys!</b> My name is Muhammad Ihsan Kurnia Al-Karim. I&apos;m software
               developer main focus on web and mobile development. As an
               undergraduate student of Informatics Engineering, I pursuse not

@@ -13,8 +13,8 @@ export default function Projects() {
           link="https://github.com/ihsankarim/puas-communitycomplaintsystem"
           />
         <CardView
-          title="Github Android App"
-          description="Aplikasi untuk menampilkan user github"
+          title="UQBlog"
+          description="UQBlog adalah aplikasi berbasis web blog"
           imageSrc="/logo.png"
           link="https://github.com/ihsankarim/GitHubUserApp"
         />
@@ -25,34 +25,10 @@ export default function Projects() {
           link="https://github.com/ihsankarim/GitHubUserApp"
         />
         <CardView
-          title="Github Android App"
-          description="Aplikasi untuk menampilkan user github"
+          title="Purrsonal Cat"
+          description="Android application with integrated model machine learning and cloud computing for detecting disease cat"
           imageSrc="/logo.png"
-          link="https://github.com/ihsankarim/GitHubUserApp"
-        />
-        <CardView
-          title="Github Android App"
-          description="Aplikasi untuk menampilkan user github"
-          imageSrc="/logo.png"
-          link="https://github.com/ihsankarim/GitHubUserApp"
-        />
-        <CardView
-          title="Github Android App"
-          description="Aplikasi untuk menampilkan user github"
-          imageSrc="/logo.png"
-          link="https://github.com/ihsankarim/GitHubUserApp"
-        />
-        <CardView
-          title="Github Android App"
-          description="Aplikasi untuk menampilkan user github"
-          imageSrc="/logo.png"
-          link="https://github.com/ihsankarim/GitHubUserApp"
-        />
-        <CardView
-          title="Github Android App"
-          description="Aplikasi untuk menampilkan user github"
-          imageSrc="/logo.png"
-          link="https://github.com/ihsankarim/GitHubUserApp"
+          link="https://github.com/ihsankarim/purrsonalcat"
         />
       </div>
     </main>
